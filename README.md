@@ -1,5 +1,6 @@
-# Technical University of Denmark (DTU): 02456 DeepLearning: 
-## SCIENTIFIC MACHINE LEARNING: ACCURATE SOLUTION OF A PARTIAL DIFFERENTIAL EQUATION USING DEEP LEARNING
+# Technical University of Denmark (DTU): 
+# 02456 DeepLearning: 
+## Scientific Machine Learning: Accurate solution of a Partial Differential Equation using Deep Learning
 In this work we have investigated the use of deep learning in solving differential equations. We have considered the Laplace equation with a given boundary condition. 
 The problem origins from evolution of a free boundary surface of water waves where the Laplace equation should be solved in every time step using a known boundary conditon at the free surface of the water. ¨
 
